@@ -1,1 +1,2 @@
-
+This folder contains basic Java JDBC programs. 
+To execute these programs, you must install the MySQL Connector (JAR file)
