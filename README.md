@@ -6,9 +6,9 @@ I have created a folder named **practical-program** which contains the Java prog
 
 I have created another folder named **java-journey** which contains:
 
-Core Java Programs – Java programs to understand fundamental concepts
-Java GUI Programs – Programs based on graphical user interface using Java Swing and AWT 
-Java Networking Programs – Basic networking programs in Java
-Java JDBC programs - Basic JDBC programs in Java 
+Core Java Programs – Java programs to understand fundamental concepts  
+Java GUI Programs – Programs based on graphical user interface using Java Swing and AWT  
+Java Networking Programs – Basic networking programs in Java  
+Java JDBC programs - Basic JDBC programs in Java  
 
 These programs help me to improve my Java programming skills step by step.
