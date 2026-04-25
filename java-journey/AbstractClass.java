@@ -1,6 +1,9 @@
 abstract class Vehicle {
     abstract public void Break();
     abstract public void Acclerate();
+    public void bittu() {
+        System.out.println("Bittu method");
+    }
 }
 class TwoWheel extends Vehicle {
     public void Break() {
@@ -15,5 +18,6 @@ public class AbstractClass  {
         TwoWheel tw = new TwoWheel();
         tw.Acclerate();
         tw.Break();
+        tw.bittu();
     }
 }
